@@ -4,8 +4,6 @@ import json
 
 from prompts import Prompts
 
-from agno.models.google import Gemini
-from agno.models.ollama import Ollama
 from agno.models.groq import Groq
 from agno.agent import Agent
 from agno.tools.duckduckgo import DuckDuckGoTools
