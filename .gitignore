@@ -1,0 +1,11 @@
+venv
+.DS_Store
+.env
+*.log
+*.json
+*.env
+*.secret
+*.key
+.secrets.toml
+.streamlit/secrets.toml
+.streamlit/secrets.toml
